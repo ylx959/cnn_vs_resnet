@@ -1,6 +1,6 @@
 # 從這個專案學 CNN 與 ResNet
 
-這份教材寫給學過機器學習的資訊系學生。你應該已經知道梯度下降（Gradient Descent）、反向傳播（Backpropagation）、損失函數（Loss Function）和過擬合（Overfitting），所以這裡不重講這些，而是專注在這個專案的三件事：
+這份教材寫給學過機器學習的夥伴們。你應該已經要知道梯度下降（Gradient Descent）、反向傳播（Backpropagation）、損失函數（Loss Function）和過擬合（Overfitting）等等 ML 基礎，所以這裡不重講這些，而是專注在這個專案的三件事：
 
 1. 模型為什麼長這樣，數字怎麼算出來。
 2. 殘差連接（Residual Connection）到底解決什麼問題。
